@@ -1,0 +1,1 @@
+This small programm was made for a disabled person that liked to play Rainbow Six Siege, but had trouble reaching the "Prone" button with their hand. The person told about their problem on Reddit and then expressed their discontent with the lack of Prone-on-hold feature. I volunteered and soon presented him this little program that simulates CTRL key press after holding C key.
